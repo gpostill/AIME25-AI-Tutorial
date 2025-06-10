@@ -36,7 +36,7 @@ Navigate to the [details to be added] branch for more details!
 - **Laura Rosella**, PhD, Professor, University of Toronto
   - Education Lead, Temerty Center for Artificial Intelligence Research and Education in Medicine, University of Toronto
 - **Rahul G. Krishnan**, PhD, Professor of Computer Science, University of Toronto
-- Abhishek Moturu, PhD Candidate, University of Toronto
+- **Abhishek Moturu**, PhD Candidate, University of Toronto
   - Student Education Co-Lead, Temerty Center for Artificial Intelligence Research and Education in Medicine, University of Toronto
 - **Julie Midroni**, MD Candidate, University of Toronto
   - Education Affiliate, Temerty Center for Artificial Intelligence Research and Education in Medicine, University of Toronto
