@@ -1,20 +1,16 @@
 # Creating Deployable AI in Heatlthcare
 *A tutorial for the AIME 2025 Conference*
 
-Welcome to the official tutorial site for our AIME 2025 tutorial! 
+Welcome to the official site for our AIME 2025 tutorial! 
 
 ---
 ##  Rationale and Overview
 
-The increasing deployment of AI in healthcare raises critical questions about how clinicians should be trained to interact with AI-driven decision support tools. While some argue that physicians need only a conceptual understanding of AI, others believe deeper technical training is necessary to ensure safe and effective use. Similarly, for AI developers, the extent of clinical expertise required has yet to be explicitly stated; indeed, an understanding of the healthcare context is pertinent as various assumptions about clinical variables and workflows are embedded within model architectures. Providing guidelines around the types of knowledge needed by each stakeholder (hospital, clinicians, developers) is pertinent to enable interdisciplinary collaboration. Clear guidelines around the knowledge of each stakeholder is also a pre-requirement to current debates around equity and liability with deployed AI models. This topic is particularly relevant to AIME attendees, as AI literacy among healthcare professionals – and health literacy among AI developers – are foundational factors in determining the success of AI integration into clinical practice. 
+Artificial intelligence (AI) is increasingly being integrated into healthcare, yet many AI models fail to transition from research to real-world deployment. This gap often arises due to misalignment with clinical needs, lack of transparency, and poor integration into clinical workflows. To bridge this divide, AI models must be explainable, actionable, and designed with the clinical need and end-users in mind.
 
-This workshop will explore the core technical AI competencies necessary for clinicians using AI, as well as the tenants of healthcare that data scientists need to be aware of when developing AI for healthcare and health research. Through interactive discussions, case studies, and hands-on activities, participants will evaluate different AI education models, discuss legal and ethical considerations, and propose strategies fostering AI literacy among healthcare professionals.
+This tutorial addresses the critical need for clinically oriented, explainable AI (XAI) in healthcare, equipping participants with the skills to develop models that clinicians can trust and use. AI adoption in medicine requires models that not only make accurate predictions but also provide interpretable insights that align with medical decision-making. Without transparency, even high-performing models risk rejection by healthcare providers due to concerns about reliability, bias, and ethical implications. Furthermore, clinical workflows operate within specific time constraints, requiring AI models that use available information and provide timely predictions within an appropriate decision-making window.
 
-Target audience of our workshop includes AIME attendees who are:
-- Clinicians and medical educators interested in AI integration into healthcare
-- AI researchers and developers, including trainees, focusing on healthcare applications
-- Medical students and residents seeking AI literacy
-- Policymakers and administrators designing AI education policies
+This session will guide participants through the key considerations in developing deployable AI, from selecting the right model to integrating multi-model dashboards for enhanced and practical clinical decision support. By fostering collaboration between clinicians and data scientists, this tutorial aims to promote the development of AI solutions that are not only innovative but also practical, explainable, and clinically impactful.
 
 
 ## Tutorial Topics
