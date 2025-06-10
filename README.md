@@ -1,5 +1,5 @@
-# Creating 
-*A tutorial for the AIME 2025 Conference*
+# User Interfaces for AI in Healthcare 
+*Practice Developing Interfaces for Communicating AI Models in Healthcare, The hands-on component of our AIME 2025 Tutorial*
 
 Welcome to the official site for our AIME 2025 tutorial! 
 
