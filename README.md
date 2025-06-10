@@ -29,7 +29,6 @@ Navigate to the [details to be added] branch for more details!
 
 
 ## Tutorial Chair
-![FullSizeRender](https://github.com/user-attachments/assets/51d238fb-c2d7-4fd4-a4a4-3b33f26d7678)
 **Gemma Postill**, MD/PhD Candidate, University of Toronto - As an MD/PhD Candidate, Gemma has expertise in AI applications in healthcare outcome prediction and clinical decision support. She also has expertise in medical education, having led multiple initiatives on AI literacy for healthcare professionals. Gemma is actively involved in medical education research to develop an AI competency framework, and separately a clinician scientist competency framework. Together, the research and education initiatives she leads help to bridge the gap between AI development and real-world clinical implementation.
 
 ## Other Contributors to the Workshop Content
