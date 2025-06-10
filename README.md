@@ -2,11 +2,20 @@
 *Practice Developing Interfaces for Communicating AI Models in Healthcare, The hands-on component of our AIME 2025 Tutorial*
 
 ---
-## Case Study: Clinical Challenge 
+## Clinical Scenario  
 
 
+**The newly developed model:**
+- [Add content] 
 
-## Design Template
+
+---
+
+## Design Challenge
+
+**Your Task:**
+- [Add content] 
+
 
 Here are some Canva templates to get you started: 
 - [Template 1](https://www.canva.com/design/DAGp-meT3UA/icS8qU9A5eLbYDfS78r0jw/edit)
