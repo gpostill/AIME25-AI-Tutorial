@@ -1,4 +1,4 @@
-# Creating Deployable AI in Heatlthcare
+# Creating Deployable AI in Healthcare
 *A tutorial for the AIME 2025 Conference*
 
 Welcome to the official site for our [AIME 2025](https://aime25.aimedicine.info) tutorial! 
