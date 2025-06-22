@@ -27,7 +27,7 @@ This tutorial will explore the following topics:
 ## 📚 Materials
 - We are attaching the slides for the [presentation]
 - [Note template](https://github.com/gpostill/AIME25-AI-Tutorial/blob/main/Note%20Template%20Tutorial.docx) to record model considerations throughout 
-- Navigate to the case study [details to be added] branch for more details
+- Navigate to the case study [details to be added](https://github.com/gpostill/AIME25-AI-Tutorial/blob/User-Interface/README.md) branch for  details on the case study at the end
 
 
 ## Tutorial Chair
