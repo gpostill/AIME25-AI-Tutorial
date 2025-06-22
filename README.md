@@ -25,7 +25,9 @@ This tutorial will explore the following topics:
 
 
 ## 📚 Materials
-Navigate to the [details to be added] branch for more details!
+- We are attaching the slides for the [presentation]
+- [Note template] to record model considerations throughout 
+- Navigate to the case study [details to be added] branch for more details
 
 
 ## Tutorial Chair
